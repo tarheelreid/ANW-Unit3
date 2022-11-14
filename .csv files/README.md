@@ -1,1 +1,1 @@
-
+This folder contains the original converted "American Ninja Warrior Obstacle History" data into a .csv. It also contains my manipulated and exported .csv file of all of the obstacles that took place in Atlanta competitions.
