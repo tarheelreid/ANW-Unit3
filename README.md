@@ -21,7 +21,7 @@ This repository is made for fans of The American Ninja Warrior competition inter
 ## Data Visual: Top 20 Most Used Obstacles In Competition
 This visualiztion shows the top 20 most used obstacles in American Ninja Warrior History, their names, and number of times used. This visual was created using Datawrapper and the data listed in the "ValueTable.csv" subset located in this repository.
 
-`![ANW-dataviz](9d8AR-american-ninja-warrior-top-20-most-used-obstacles-in-competition-nbsp- (1).png)`
+![ANW-dataviz](9d8AR-american-ninja-warrior-top-20-most-used-obstacles-in-competition-nbsp- (1).png)
 
 ## Acknowledgements
 This is a repository containing all of the material and data-sets from Reid Miller's Unit 3 project for Prof. Gotzler at The University of North Carolina at Chapel Hill. The original .csv file of American Ninja Warrior's Obstacle History was found at [Github's Awesome Data](https://data.world/ninja/anw-obstacle-history). These files have been taught and adapted from the great resources of UNC's Davis Library found at the [Research Hub](https://unc-libraries-data.github.io/Python/Intro/Introduction_CrashCourse.html). Thank you to Prof. Gotzler for making this possible.
