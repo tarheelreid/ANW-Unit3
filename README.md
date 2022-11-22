@@ -10,7 +10,7 @@ This repository contains:
 5. A visual representation of newly maniupaulated data from Jupyter Labs.
 
 ## Provenance:
-As a fan of all sports related topics, this data caught my eye as I was reading through some sports data sets found on Github. I coded and manipulated my data set on Jupyter Labs using the language of Python and the Pandas/Numpy Package. The data includes information such as the season number, location, round/stage, obstacle name, and obstacle order. 
+As a fan of all sports related topics, this data caught my eye as a data scientist. I was reading through some sports data sets found on Github and found the complete history of all obstacles used in American Ninja Warrior competition. I coded and manipulated my data set on Jupyter Labs using the language of Python and the Pandas/Numpy Package. The data includes information such as the season number, location, round/stage, obstacle name, and obstacle order. 
 
 ## Purpose: 
 The purpose for this data set is mainly to show the history of all obstacles used in competition. But also, my manipulated data set is aimed to show the top 20 most used obstacles in competition, in order to potentially set up athletes well for new competition sequences in their upcoming competitions and training.
