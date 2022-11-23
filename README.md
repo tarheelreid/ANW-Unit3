@@ -1,6 +1,6 @@
 # American Ninja Warrior: Obstacle History
 
-The following data repository contains all of the obstacles used during copetition in American Ninja Warrior history. Through Jupyter Labs using Python and the Pandas Package, I was able to figure out the top 20 most used obstacles in competition from my original obstacle history .csv file. In looking at this information, athlete's competing in the show can be better equipped for new competition layouts now knowing probable obstacle sequences and popular obstacles used. Or, if you're a genuine fan of the show, this obstacle history and most popular obstacle data is very interesting to read through and look at.
+The following data repository contains all of the obstacles used during copetition in American Ninja Warrior history. As a competition designer for the American Ninja Warrior reality television show, I wanted to become a better designer through learning about obstacle history. Through Jupyter Labs using Python and the Pandas Package, I was able to figure out the top 20 most used obstacles in competition from my original obstacle history .csv file. In figuring out this information, I am better equipped to design new, better, and more interesting course layouts to increase the show's innovation and viewer count. Additionally, athlete's competing in the show can be better equipped for new competition layouts now knowing probable obstacle sequences and popular obstacles used. Or, if you're a genuine fan of the show, this obstacle history and most popular obstacle data is very interesting to read through and look at.
 
 This repository contains:
 1. In-class tutorials. 
@@ -10,16 +10,16 @@ This repository contains:
 5. A visual representation of newly maniupaulated data from Jupyter Labs.
 
 ## Provenance:
-As a fan of all sports related topics, this data caught my eye as a data scientist. I was reading through some sports data sets found on Github and found the complete history of all obstacles used in American Ninja Warrior competition. I coded and manipulated my data set on Jupyter Labs using the language of Python and the Pandas/Numpy Package. The data includes information such as the season number, location, round/stage, obstacle name, and obstacle order. 
+As a fan of all sports related topics and one of the course designers for American Ninja Warrior, this data caught my eye as a data scientist and designer. I was reading through some sports data sets found on Github and found the complete history of all obstacles used in American Ninja Warrior competition. I coded and manipulated my data set on Jupyter Labs using the language of Python and the Pandas/Numpy Package. The data includes information such as the season number, location, round/stage, obstacle name, and obstacle order. 
 
 ## Purpose: 
-The purpose for this data set is mainly to show the history of all obstacles used in competition. But also, my manipulated data set is aimed to show the top 20 most used obstacles in competition, in order to potentially set up athletes well for new competition sequences in their upcoming competitions and training.
+The purpose for this data set is mainly to show the history of all obstacles used in competition. But also, my manipulated data set is aimed to show the top 20 most used obstacles in competition, in order to increase my course designing abilities and potentially set up athletes well for new competition sequences in their upcoming competitions and training.
 
 ## Potential
-This repository is made for fans of The American Ninja Warrior competition interested in obstacle history/information. Any athlete training for the competition wanting to prepare for what the next competiton may bring. American Ninja Warrior competiton designers who want to know their history of creating obstacles in order to create difficult sequences of obstacles for the coming competitions. Lastly, this repository could be used for anyone interested in teaching themselves or learning more about coding or manipulating data sets they would like to experiment with.
+This repository is made for fans of The American Ninja Warrior competition interested in obstacle history/information. Any athlete training for the competition wanting to prepare for what the next competiton may bring. Other American Ninja Warrior competiton designers who want to know their history of creating obstacles in order to create difficult sequences of obstacles for the coming competitions. Lastly, this repository could be used for anyone interested in teaching themselves or learning more about coding or manipulating data sets they would like to experiment with.
 
 ## Data Visual: Top 20 Most Used Obstacles In Competition
-This visualiztion shows the top 20 most used obstacles in American Ninja Warrior History, their names, and number of times used. This visual was created using Datawrapper and the data listed in the "ValueTable.csv" subset located in this repository.
+This visualization shows the top 20 most used obstacles in American Ninja Warrior History, their names, and number of times used. This visual was created using Datawrapper and the data listed in the "ValueTable.csv" subset located in this repository.
 
 ![9d8AR-american-ninja-warrior-top-20-most-used-obstacles-in-competition-nbsp- (1)](https://user-images.githubusercontent.com/118196979/203415006-9611f854-bfd0-417f-ac48-b833dff3fc4c.png)
 
